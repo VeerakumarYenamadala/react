@@ -1,5 +1,5 @@
 # react
 react components
 
-#start app
+# start app
 npx sb init
